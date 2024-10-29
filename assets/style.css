@@ -54,6 +54,7 @@ body {
 }
 
 .cartao__conteudo__pergunta p{
+     padding-top: 50%;
     color: var(--text-color);
     font-weight: 500;
 }
