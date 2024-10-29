@@ -49,12 +49,12 @@ body {
 
 .cartao__conteudo p {
     margin-top: 1rem;
-    padding: 20rem;
-    margin-top: 20rem;
+    padding: 2rem;
+    margin-top: 4rem;
 }
 
 .cartao__conteudo__pergunta p{
-     padding-top: 50%;
+     padding-top: 30%;
     color: var(--text-color);
     font-weight: 500;
 }
