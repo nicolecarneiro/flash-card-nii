@@ -59,6 +59,7 @@ body {
     font-weight: 500;
 }
 .cartao__conteudo__resposta p{
+    padding-top: 25%;
     color: var(--card-back-color);
     font-weight: 700;
 }
