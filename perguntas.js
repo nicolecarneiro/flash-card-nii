@@ -23,9 +23,9 @@ criaCartao(
 )
 
 criaCartao(
-    'geografia',
-    'qual a capital de França?',
-    'é Paris'
+    'cores',
+    'qual é a cor do céu ?',
+    'é azul'
 )
 
 criaCartao(
