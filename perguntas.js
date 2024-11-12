@@ -27,3 +27,9 @@ criaCartao(
     'qual a capital de França?',
     'é Paris'
 )
+
+criaCartao(
+    'Matematica',
+    'Quantos é 2+2?',
+    'a reposta é 4'
+)
